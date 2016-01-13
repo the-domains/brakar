@@ -4,7 +4,7 @@
         <description><![CDATA[Brakar]]></description>
         <link>https://thegrid.ai/brakar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 14:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 14:17:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brakar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Banana!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/brakar/banana/index.html</link>
             <guid isPermaLink="false">f1fd075b-4553-4af9-a6a5-fb6f0a104da6</guid>
             <pubDate>Wed, 13 Jan 2016 11:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>John Irving</p>]]></description>
+            <link>https://thegrid.ai/brakar/d6f70d79-b77f-498d-98b8-4226a1fd269b/index.html</link>
+            <guid isPermaLink="false">d6f70d79-b77f-498d-98b8-4226a1fd269b</guid>
+            <pubDate>Wed, 13 Jan 2016 14:17:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
