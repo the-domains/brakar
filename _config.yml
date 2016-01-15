@@ -1,7 +1,7 @@
 name: Brakar
 favicon: null
-layout_spectrum: 0.13989705592393875
-typography_spectrum: 0.47988883475773036
+layout_spectrum: 1
+typography_spectrum: 0.24863
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7703444499056786
-  lightness: 0.5559937262441963
-  saturation: 0.7195070160087198
-  rhythmicContrast: 0.5361330842133611
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
