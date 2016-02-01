@@ -1,7 +1,7 @@
 name: Brakar
 favicon: null
-layout_spectrum: 0.50497
-typography_spectrum: 0.75451
+layout_spectrum: 0
+typography_spectrum: 0.56301
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070705'
-    - '#92a1c2'
-    - '#5177be'
-    - '#37535e'
-    - '#d9dade'
+    - '#070711'
+    - '#d9c298'
+    - '#ad9161'
+    - '#473948'
+    - '#fefaef'
   brandStrength: 0.5
   lightness: 0.75
-  saturation: 0.125
-  rhythmicContrast: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
